@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
 
-div {
-   max-width: 1600px;
-
-}
-
 #content {
+    max-width: 1600px;
     margin: 0 auto;
 
 }
@@ -158,6 +154,11 @@ footer .social img{
 padding-top: 5px;
 
 }
+
+.logo   {
+    width: 80px;
+    
+    }
 
 .rivers-card, .camping-card, .rapids-card{
     margin: 200px 0;
