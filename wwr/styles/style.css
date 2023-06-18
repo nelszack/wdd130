@@ -260,8 +260,33 @@ align-self: center;
 
 }
 
+.page2img{
+    width: 100%;
+}
+.pg2title{
+    font-family: 'Bruno Ace SC', arial, sans-serif ;
+    font-size: 2em;
+    text-align: center;
+    
+    
+}
+.triptitle{
+    font-family: 'Bruno Ace SC', arial, sans-serif ;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 40px;
+}
+.sub{
+    font-family: "Open Sans", Helvetica, sans-serif;
+    text-align: center;
+    font-size: .80em;
+    margin-bottom: 25px;
 
-
+}
+.datesandtimes{
+    text-indent: 10%;
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
